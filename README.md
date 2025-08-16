@@ -17,7 +17,7 @@ Eso explica el origen de esta cuenta con antigüedad y el nombre de usuario que 
 
 Hoy en dia trabajo en seguridad electrónica y aunque tenga muy pocos acercamientos al ámbito informático, me gustaría tomar cada vez más partido en este campo.
 
-##Gustos
+## Gustos
 -Me gustan los autos, sé algo de mecánica.
 
 -Soy un fanatico del gym (entreno desde los 17 aunque tuve años que dejé).
